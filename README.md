@@ -17,6 +17,16 @@ Upload PDF documents and ask questions about them. The system retrieves relevant
 
 ---
 
+## Screenshots
+
+### Upload Page
+![Upload Page](images/upload.png)
+
+### AI Chat Interface
+![Chat Interface](images/chat.png)
+
+---
+
 ## Tech Stack
 
 ### Backend
