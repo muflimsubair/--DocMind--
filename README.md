@@ -148,4 +148,5 @@ Frontend runs at: `http://localhost:3000`
 ## Author
 
 **Muhammed Muflim Subair**
+  
 BTech in Artificial Intelligence — Srinivas Institute of Technology, Mangalore
