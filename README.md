@@ -7,10 +7,10 @@ An AI-powered document Question & Answer web application. Upload PDF documents a
 ## Screenshots
 
 ### Upload Page
-![Upload Page](images/upload.png)
+![Upload Page](images/upload-new.png)
 
 ### Chat Interface
-![Chat Interface](images/chat.png)
+![Chat Interface](images/chat-new.png)
 
 ---
 
